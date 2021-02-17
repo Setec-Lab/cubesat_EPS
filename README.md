@@ -1,0 +1,2 @@
+# cubesat_EPS
+FRDET
